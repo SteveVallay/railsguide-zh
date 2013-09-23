@@ -1,44 +1,44 @@
 -
-  name: Start Here
+  name: 从这里开始
   documents:
     -
-      name: Getting Started with Rails
+      name: Rails 入门
       url: getting_started.html
-      description: Everything you need to know to install Rails and create your first application.
+      description: 在这里，你将学会如何安装 Rails 以及创建你的第一个应用。
 -
-  name: Models
+  name: Models （MVC 之 M）
   documents:
     -
-      name: Active Record Basics
+      name: Active Record 基础
       url: active_record_basics.html
-      description: This guide will get you started with models, persistence to database and the Active Record pattern and library.
+      description: 这里将会为您介绍 Models, Database 和 Active Record 。
     -
       name: Rails Database Migrations
       url: migrations.html
-      description: This guide covers how you can use Active Record migrations to alter your database in a structured and organized manner.
+      description: 这里将会为您介绍如何使用 Active Record migrations 来改变 Database 。
     -
       name: Active Record Validations
       url: active_record_validations.html
-      description: This guide covers how you can use Active Record validations
+      description: 这里将会为您介绍如何使用 Active Record Validations。
     -
       name: Active Record Callbacks
       url: active_record_callbacks.html
-      description: This guide covers how you can use Active Record callbacks.
+      description: 这里将会为您介绍如何使用 Active Record Callbacks。
     -
       name: Active Record Associations
       url: association_basics.html
-      description: This guide covers all the associations provided by Active Record.
+      description: 这里将会为您介绍 Active Record 的 Associations 特性。
     -
       name: Active Record Query Interface
       url: active_record_querying.html
-      description: This guide covers the database query interface provided by Active Record.
+      description: 这里将会为您介绍 Active Record 提供的 Database Query Interface。
 -
-  name: Views
+  name: Views （MVC 之 V）
   documents:
     -
-      name: Action View Overview
+      name: Action View 概览
       url: action_view_overview.html
-      description: This guide provides an introduction to Action View and introduces a few of the more common view helpers.
+      description: 这里将会为您介绍 Action View 和一些常见的 view helpers。
       work_in_progress: true
     -
       name: Layouts and Rendering in Rails
@@ -49,7 +49,7 @@
       url: form_helpers.html
       description: Guide to using built-in Form helpers.
 -
-  name: Controllers
+  name: Controllers （MVC 之 C）
   documents:
     -
       name: Action Controller Overview
